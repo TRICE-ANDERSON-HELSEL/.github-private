@@ -1,3 +1,3 @@
 # .github-private
-amilliondesigns/.github-private ; amilliondesigns.github-private
-private repository for amilliondesigns™ 2025 © AmillionProductsLLC
+TRICE-ANDERSON-HELSEL/.github-private ; amillion-bank.github-private
+private repository for amillion.bank™ 2025 © AmillionProductsLLC
